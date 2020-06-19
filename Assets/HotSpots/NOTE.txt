@@ -1,0 +1,15 @@
+HotSpots Creator - Sin Terminar
+
+Caracteristicas que pueden ser utiles:
+-Poder seleccionar con que boton crear botones
+-Boleano para saber si puede o no crear hotspots
+-Listado de hotspots creados
+-Current Hotspot o Last Hotspot (Para saber si por alguna razon habra que destruirlo antes de que sea interactivo por ejemplo cuando se cancele el formulario de creacion de hotspot.)
+-Clase HotSpotController que controle los comportamientos del hotSpot, como si es interactivo o no.
+-Mostrar todos
+-Esconder todos
+-Tag de los hotspots para buscar todos en la escena
+-Animar HotSpot. Visualmente.
+-Que el hotspot muestre informacion.
+-Tipo de hotspot: Navegacion, Informativo, Audio, Solo texto (Label), etc.
+
